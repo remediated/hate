@@ -14,4 +14,4 @@ comes with a wordlist already, you can add your own to it if this one doesnt fit
 
 @remediated on discord
 
-@remediated on telegram
+@remediates on telegram
