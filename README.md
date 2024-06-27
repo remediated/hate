@@ -7,7 +7,7 @@ python 3.x +
 windows os
 
 # usage
-python hate.py
+run hate.exe, ill make it open sourced if requested
 
 # how it works
 using wordlists & tries every password in wordlist until it gets it correct
