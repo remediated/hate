@@ -1,4 +1,4 @@
-# hate bruteforcer
+# hate
 winwar & archive bruteforcer
 
 # requiremnts
